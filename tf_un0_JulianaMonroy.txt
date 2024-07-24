@@ -8,3 +8,8 @@ c) mencione tres diferencias entre Git y Github
  - 1. Git es un repositorio local, mientras que github es un repositorio remoto.
    2. Github puede ser accedido en cualquier computador, mientras que Git no.
    3. Git es un software, mientras que github es un pagina web.
+
+d) Area de trabajo, area de preparacion (ubicarse para la foto) y directorio git (toma de la foto). podrias explicar en que consisten?
+ - area de trabajo: area donde se encuentra el estado de un archivo y sus cambios.
+   area de preparacion: se añade el archivo modificado a un "stage" donde se prepara para grabar los cambios hechos en este.
+   directorio git: se graban los cambios hechos en el archivo, creando una nueva "rama" o version del mismo en el repositorio. 
