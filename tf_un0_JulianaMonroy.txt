@@ -12,4 +12,7 @@ c) mencione tres diferencias entre Git y Github
 d) Area de trabajo, area de preparacion (ubicarse para la foto) y directorio git (toma de la foto). podrias explicar en que consisten?
  - area de trabajo: area donde se encuentra el estado de un archivo y sus cambios.
    area de preparacion: se añade el archivo modificado a un "stage" donde se prepara para grabar los cambios hechos en este.
-   directorio git: se graban los cambios hechos en el archivo, creando una nueva "rama" o version del mismo en el repositorio. 
+   directorio git: se graban los cambios hechos en el archivo, creando una nueva "rama" o version del mismo en el repositorio.
+
+e) para que se utilizan las ramas en Git?
+ - en git las ramas se usan para grabar diferentes versiones de un archivo a partir de las modificaciones que se graben en este.
