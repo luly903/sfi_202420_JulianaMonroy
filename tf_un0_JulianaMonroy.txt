@@ -1,2 +1,5 @@
 a) que es un sistema de control de versiones?
  - un sistema de control de versiones es un sistema que permite grabar las modficaciones que se realizan a uno o varios archivos y acceder a versiones pasadas del mismo, facilitando la edicion de archivos.
+
+b) que diferencia hay entre repositorio local y remoto?
+ - el local se encuentra en el ordenador, mientras que el remoto se encuentra en la internet.
