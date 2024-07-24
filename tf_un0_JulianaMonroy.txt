@@ -3,3 +3,8 @@ a) que es un sistema de control de versiones?
 
 b) que diferencia hay entre repositorio local y remoto?
  - el local se encuentra en el ordenador, mientras que el remoto se encuentra en la internet.
+
+c) mencione tres diferencias entre Git y Github
+ - 1. Git es un repositorio local, mientras que github es un repositorio remoto.
+   2. Github puede ser accedido en cualquier computador, mientras que Git no.
+   3. Git es un software, mientras que github es un pagina web.
