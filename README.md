@@ -2,5 +2,7 @@
 
 ### Integrantes
 
-Juliana Monroy Andrade
-Luisa Fernanda Buelvas
+Juliana Monroy Andrade : 000510580
+Luisa Fernanda Buelvas : 
+
+link repositorio :
