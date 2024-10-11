@@ -9,7 +9,7 @@ len: determina la longitud de la cadena de caracteres (de Data[]) en el protocol
 
 adr: identifica el dispositivo receptor.
 
-cmd: consola de comandos, se usa para interacvtuar con el sistema en el protocolo binario.
+cmd: comando que se usa para interactuar con el sistema en el protocolo binario.
 
 Data[]: conjunto de datos que se transmitiran en el protocolo binario, si no hay datos, el peso del data[] sera 0.
 
