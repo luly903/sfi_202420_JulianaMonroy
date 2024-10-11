@@ -43,7 +43,8 @@ void loop() {
     {
       if(Serial.read() == 'l')
       {
-       Serial.println("Little-endian:");
+        // para el little endian
+       Serial.println("Little endian:");
           for (int i = 0; i < 4; i++) 
           {
               Serial.write(arr1[i]);
@@ -54,11 +55,8 @@ void loop() {
            Serial.write(arr2[i]);
        }
        Serial.println();
-      }
-      else
-      if(Serial.read() == 'b')
-      {
-           Serial.println("Big-endian:");
+        // para el big endian
+          Serial.println("Big endian:");
              for (int i = 3; i >= 0; i--) 
              {
               Serial.print(arr1[i]);
@@ -70,9 +68,7 @@ void loop() {
              }
        Serial.println();
       }
-
-
-
+      
     }
 
 }
